@@ -9,22 +9,21 @@
 
 ## Summary
 
-[2–3 sentence summary of the video's main argument or framework — write this yourself after reading the transcript]
+Learn SEO for free with LearningSEO.io, offering a comprehensive roadmap, guides, and tools. It covers essential SEO stages like keyword research, content optimization, and technical aspects. Users can access free tools and a Google Sheets template to save resources, along with expert tips for beginners to facilitate their SEO learning journey.
 
 ---
 
 ## Key Points
 
-- [Key point 1]
-- [Key point 2]
-- [Key point 3]
+-Best Resources
+-Roadmap
+-Learnings
 
 ---
 
 ## Transcript
 
-[Full transcript text goes here — paste output from get_transcripts.py]
-
+Still Searching the Meanings...
 ---
 
 *Collected on: [April 19, 2026]*
