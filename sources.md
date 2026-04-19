@@ -55,4 +55,4 @@ Gaetano is a growth advisor who has held senior marketing roles at Nextiva, Pipe
 
 ---
 
-*Sources collected between [Start Date] and [End Date]*
+*Sources collected between [April 19, 2026] and [April 20, 2026]*
